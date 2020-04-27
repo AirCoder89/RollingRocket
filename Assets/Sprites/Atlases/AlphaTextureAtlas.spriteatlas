@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AlphaTextureAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 8192
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 930d25d3ff9d2d34980470d8f3741c80, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7f3f8a641875eb24391b8b909047fd4b, type: 3}
+  - {fileID: 21300000, guid: 583bca030e7522948b01ecd021dd86fa, type: 3}
+  - {fileID: 21300000, guid: a9140ba8a5e6959448dc043ea8c8b272, type: 3}
+  - {fileID: 21300000, guid: 2f5094df5770b6846b6a8bd86ac84c3f, type: 3}
+  - {fileID: 21300000, guid: 56ba6bc68c81c4b4a9c0f4244c38585f, type: 3}
+  - {fileID: 21300000, guid: 78576e207283608439b4d527c51d01f1, type: 3}
+  - {fileID: 21300000, guid: a643d988c6cbf1a49a270ed06d936bea, type: 3}
+  - {fileID: 21300000, guid: d9bd6648ec097914a9483e4068eef1f6, type: 3}
+  - {fileID: 21300000, guid: 3e6b612247ea6b74d83a7a04058c0afa, type: 3}
+  - {fileID: 21300000, guid: f8faab9860bf6544db02aeaa5113974b, type: 3}
+  - {fileID: 21300000, guid: f7701cf4e74274a48a9860f5ec3d723c, type: 3}
+  - {fileID: 21300000, guid: 8efac61f0e03e2f4fabbd080d0eb3417, type: 3}
+  - {fileID: 21300000, guid: 3bd85dec93589824f8cdc603fc37bd19, type: 3}
+  - {fileID: 21300000, guid: ee4ae70fdc514cf4ea9787f0f6b29c5a, type: 3}
+  - {fileID: 21300000, guid: bac82cfd093719a4f91eb31944a52782, type: 3}
+  - {fileID: 21300000, guid: 2e67ae7ca96773e4dae405d3691ad7a6, type: 3}
+  - {fileID: 21300000, guid: 1303a8a126d36c2429750edb17a3b8af, type: 3}
+  - {fileID: 21300000, guid: 215c03fd4bb70fa4380d5fa4f58dbf83, type: 3}
+  - {fileID: 21300000, guid: 927857e06728d7d439c180e165268e50, type: 3}
+  - {fileID: 21300000, guid: 997a186993f03dc439b3bc098524522a, type: 3}
+  - {fileID: 21300000, guid: b701027541e0d974984420c143b10244, type: 3}
+  - {fileID: 21300000, guid: 28cd18c2411c43c4190ecc8de034e225, type: 3}
+  - {fileID: 21300000, guid: fcbbad080a974e34eab62f85f000150b, type: 3}
+  - {fileID: 21300000, guid: 8d705a0e75144ad44a62cfa7b88e181d, type: 3}
+  - {fileID: 21300000, guid: a09d5fd4aa2457542bc6ff736f169da0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mystery_10
+  - Ripples_01
+  - Heart_01
+  - Stain_11
+  - Hexagon_01
+  - Decal_20
+  - Spiral_03
+  - Flame_12
+  - Flame_08
+  - Cross_04
+  - Stripes_01
+  - Cloud_05
+  - Star_23
+  - Circle_17
+  - Star_35
+  - Light_Beam_07
+  - Trail_02
+  - Ring_10
+  - Ring_19
+  - Blur_04
+  - Sharp_09
+  - Projectile_03
+  - Circle_Aura_26
+  - Bubble_01
+  - Ring_05
+  m_Tag: AlphaTextureAtlas
+  m_IsVariant: 0

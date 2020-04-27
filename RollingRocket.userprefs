@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShipController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="64" Column="42" />
+      <File FileName="Assets\Scripts\CheckPointScript.cs" Line="17" Column="43" />
+      <File FileName="Assets\Scripts\EventHandler.cs" Line="23" Column="6" />
+      <File FileName="Assets\Scripts\ShipFollow.cs" Line="59" Column="47" />
+      <File FileName="Assets\Scripts\ShipController.cs" Line="81" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

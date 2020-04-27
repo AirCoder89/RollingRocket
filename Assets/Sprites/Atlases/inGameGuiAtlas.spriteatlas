@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: inGameGuiAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eae775ee83acc8642b13237f692536c7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ecd5c040b151fbe4598163c33a6684d6, type: 3}
+  - {fileID: 21300000, guid: 7be4eb4c52eb2fb4e98076d6852ff831, type: 3}
+  - {fileID: 21300000, guid: 9d62744d689397340abfffaa2657d870, type: 3}
+  - {fileID: 21300000, guid: 43a749e4dbcab244281adb0ec49da753, type: 3}
+  - {fileID: 21300000, guid: 9dafa0a745b743f43846773f82feed34, type: 3}
+  - {fileID: 21300000, guid: efee5ca189a693447b1fcfb598ee279a, type: 3}
+  - {fileID: 21300000, guid: 28090ac38bcf4b44184fe9b5708110b2, type: 3}
+  - {fileID: 21300000, guid: ccdcb594a8d56834c938f54cf10fe799, type: 3}
+  - {fileID: 21300000, guid: 0fbcd653f4ae60d4c9f728bddcd1302c, type: 3}
+  - {fileID: 21300000, guid: abcfbd028130ca4499615da290aab9f1, type: 3}
+  - {fileID: 21300000, guid: 37908b69c3b53614bbff015f3c813568, type: 3}
+  - {fileID: 21300000, guid: 66813c4a6203adb4a8baadb2b37087dc, type: 3}
+  - {fileID: 21300000, guid: 22d31700714b25e4f9d2fbe49276357b, type: 3}
+  - {fileID: 21300000, guid: 82b7ae2b652727b42a8664ed03d858fa, type: 3}
+  - {fileID: 21300000, guid: 89df7d0527deb814799cc41764dc21ea, type: 3}
+  - {fileID: 21300000, guid: ed02e88b10900364dbb37c2708fb1923, type: 3}
+  - {fileID: 21300000, guid: 6238d0f8149d63b41ac030d3e7c688a6, type: 3}
+  - {fileID: 21300000, guid: 423b83d061b59554485efd097a2f9dd6, type: 3}
+  - {fileID: 21300000, guid: a8fccd20612b42c4e8b50a1b3793922f, type: 3}
+  - {fileID: 21300000, guid: c6b383afb69a08b4291be57ad04b3b51, type: 3}
+  - {fileID: 21300000, guid: 5febdb6d1650f584c80ebf93c6a00e8b, type: 3}
+  - {fileID: 21300000, guid: 047efd2a651781c4683e98a6421859da, type: 3}
+  - {fileID: 21300000, guid: bf7ede6ac8214b74ab2a7d97ef5468ec, type: 3}
+  - {fileID: 21300000, guid: 3553c9bde7d04944f9d752d63189c7e2, type: 3}
+  - {fileID: 21300000, guid: a8d28644325058d4cbf3641c08c6193c, type: 3}
+  - {fileID: 21300000, guid: d972df2a62570044eb49e841ef5c476b, type: 3}
+  - {fileID: 21300000, guid: 0e3cec24d218b994b852ee9bd8c42912, type: 3}
+  - {fileID: 21300000, guid: 80d4cd04e92a3e74c807ded7dcdd2d9f, type: 3}
+  - {fileID: 21300000, guid: 0a605127dd0fd974f8572741c43b6db5, type: 3}
+  - {fileID: 21300000, guid: a6e458b7b07420644b0a04071b8f8d43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ShipControlBtnPressed
+  - ShipControlBtn
+  - CenterCercleRed
+  - UnderCercle2
+  - CenterCercle
+  - underCercle1.png
+  - PBar_BG.png
+  - FillPbar
+  - OverCercle
+  - Title
+  - Title
+  - loadingTXT_0
+  - AlerFrame
+  - pannelBG3.png
+  - replayBtn
+  - replayPressed
+  - resumeBtnStandAlone
+  - settingsStandAlone
+  - resumeBtnPressed
+  - giveUppressed
+  - watchADBtnDisabled
+  - SettingsPressed
+  - watchADBtn
+  - 100CoinsBtn
+  - watchADpressed
+  - ExitPressed
+  - exitStandalone
+  - GiveUpBtn
+  - 100CoinsPressed
+  - AlertIcon
+  m_Tag: inGameGuiAtlas
+  m_IsVariant: 0

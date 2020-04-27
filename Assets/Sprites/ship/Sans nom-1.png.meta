@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 94461afb508053840b914990a6b1a0be
+timeCreated: 1528375183
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sans nom-1_0
+    21300002: Sans nom-1_1
+    21300004: Sans nom-1_2
+    21300006: Sans nom-1_3
+    21300008: Sans nom-1_4
+    21300010: Sans nom-1_5
+    21300012: Sans nom-1_6
+    21300014: Sans nom-1_7
+    21300016: Sans nom-1_8
+    21300018: Sans nom-1_9
+    21300020: Sans nom-1_10
+    21300022: Sans nom-1_11
+    21300024: Sans nom-1_12
+    21300026: Sans nom-1_13
+    21300028: Sans nom-1_14
+    21300030: Sans nom-1_15
+    21300032: Sans nom-1_16
+    21300034: Sans nom-1_17
+    21300036: Sans nom-1_18
+    21300038: Sans nom-1_19
+    21300040: Sans nom-1_20
+    21300042: Sans nom-1_21
+    21300044: Sans nom-1_22
+    21300046: Sans nom-1_23
+    21300048: Sans nom-1_24
+    21300050: Sans nom-1_25
+    21300052: Sans nom-1_26
+    21300054: Sans nom-1_27
+    21300056: Sans nom-1_28
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sans nom-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 407
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 301
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 195
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sans nom-1_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 53
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

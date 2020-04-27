@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LevelSelect
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c7d4b554744ebaf4cb7ba92cfc43eaf9, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 53b9078b116caed4e85ac6da9beee894, type: 3}
+  - {fileID: 21300000, guid: c36a458f4d025ed46845d5cf2808722f, type: 3}
+  - {fileID: 21300000, guid: 5255ee1e7f31672409345d33d4b97881, type: 3}
+  - {fileID: 21300000, guid: f230c864647e73e458674ad151b10b2d, type: 3}
+  - {fileID: 21300000, guid: 47de3dd79bd153c4ca098f4ad2578c6f, type: 3}
+  - {fileID: 21300000, guid: a54a466f77963884389ff526859030d3, type: 3}
+  - {fileID: 21300000, guid: 79ea6a2f30d96af4bb2084220b6dc6d7, type: 3}
+  - {fileID: 21300000, guid: 6c61c101a71d87f409130a6b25dfa6de, type: 3}
+  - {fileID: 21300000, guid: eb462f07b2726b44abd86e35083cd5aa, type: 3}
+  - {fileID: 21300000, guid: b145eb991276610439d15bdf47d7e937, type: 3}
+  - {fileID: 21300000, guid: 07c32c6821c2a954aaf133e0a2efb14d, type: 3}
+  - {fileID: 21300000, guid: 1f81acfb626468f4498fcd33fed5b71c, type: 3}
+  - {fileID: 21300000, guid: 67b959a3786737d4b8bd11298de522c1, type: 3}
+  - {fileID: 21300000, guid: 39579cfd95f8c7c4eaab0bb5c701289a, type: 3}
+  - {fileID: 21300000, guid: de1e9e059e3598847bfa35c43b1fc351, type: 3}
+  - {fileID: 21300000, guid: dfd8256df8a47664eae828cd8383d72c, type: 3}
+  - {fileID: 21300000, guid: a8620bf69dfd0d64d82ff79a3d7c2aea, type: 3}
+  - {fileID: 21300000, guid: c5acbe0fcdcc1064e988dd5b8598804b, type: 3}
+  - {fileID: 21300000, guid: e4c988a937f0bc141927c949f3d9bb78, type: 3}
+  - {fileID: 21300000, guid: 84caf005804c9034097ea36950ca63a4, type: 3}
+  - {fileID: 21300000, guid: a1d9794512f20214a8e3fbfd09259517, type: 3}
+  - {fileID: 21300000, guid: ad9a562c4d267e84f9a25c8e7a121220, type: 3}
+  - {fileID: 21300000, guid: 2b55a2d821704014ab0958c4b08a25f8, type: 3}
+  - {fileID: 21300000, guid: b3bc94f6cabb2604db6d12d5e2b81d37, type: 3}
+  - {fileID: 21300000, guid: a28e508cadc1251428679e2ea74a8d5f, type: 3}
+  - {fileID: 21300000, guid: 016d4545ff1182a4d86a4bf836430753, type: 3}
+  - {fileID: 21300000, guid: bfa493d527daf51419dca938a49c9086, type: 3}
+  - {fileID: 21300000, guid: 44abf3a7287a89441adea1c23432286c, type: 3}
+  - {fileID: 21300000, guid: fbc8de1fa67efa74c9302421d3ad594b, type: 3}
+  - {fileID: 21300000, guid: ec0cc9caca5977b46984d6a6ba4438f9, type: 3}
+  - {fileID: 21300000, guid: 4d7445c0568e8aa469cbc9ac67291955, type: 3}
+  - {fileID: 21300000, guid: bd14d5fb36230e04e8375f617b25c0dc, type: 3}
+  - {fileID: 21300000, guid: 71d06583a33f8de4ab6c40f4ea8626b8, type: 3}
+  - {fileID: 21300000, guid: 5245bf42f8e68ac409ea0585f0631b50, type: 3}
+  - {fileID: 21300000, guid: aece6b4484aa17d41ad4e85ffe727d07, type: 3}
+  - {fileID: 21300000, guid: 0e751881c93f66c41b62da39cdbf64ed, type: 3}
+  - {fileID: 21300000, guid: 87d7b34ff71b47848bc3a47485fbdc8b, type: 3}
+  - {fileID: 21300000, guid: 196775b5931b4ac49b700a116bd401f3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BGDialog
+  - 5KCoins
+  - 1KCoins
+  - 10KCoins
+  - TitleMainWin
+  - Level01_Clicked
+  - Level03_Active
+  - Level02_Clicked
+  - Level03_Clicked
+  - Level03_Inactive
+  - Level01_Inactive
+  - Level01_Active
+  - Level02_Active
+  - Level02_Inactive
+  - GlowLineLong
+  - ShopIcon
+  - SAClicked06
+  - SAClicked07
+  - SAClicked02
+  - SAClicked03
+  - SAClicked01
+  - SExtraUnlocked
+  - SnormalLocked
+  - SA3
+  - SA2
+  - SA7
+  - SA6
+  - SAClicked04
+  - SAClicked05
+  - SExtraLocked
+  - SA1
+  - SA5
+  - SA4
+  - PauseMenuBtn
+  - CancelBtnDialog
+  - OKBtnDialog
+  - selectedIcon
+  - CloseDialogBtn
+  m_Tag: LevelSelect
+  m_IsVariant: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: levelBlueNight
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 613d2b3733c8720479299186f5e7e296, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aafdabca215cd7c4fb1faf8a2733cca6, type: 3}
+  - {fileID: 21300000, guid: 94ceef97d8b43b9409cfab114379e7de, type: 3}
+  - {fileID: 21300000, guid: 19b50ff594ab10543aac0282c4e7984c, type: 3}
+  - {fileID: 21300000, guid: fbc6013142c243848a4eb2dff9e489b7, type: 3}
+  - {fileID: 21300000, guid: e99133accb98fa149bd31caec68257e6, type: 3}
+  - {fileID: 21300000, guid: afacabb55a25f4b46923587e9b371353, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BGStars
+  - MidBG
+  - backgroundMiddle
+  - nearBG
+  - FarBG
+  - BGTunel
+  m_Tag: levelBlueNight
+  m_IsVariant: 0

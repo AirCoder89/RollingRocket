@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: 2413e6d9b4038554a973d87174fd7deb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OBS_casse1
+    21300002: OBS_casse2
+    21300004: OBS_upper
+    21300006: OBS_twist
+    21300008: OBS_BigHand
+    21300010: OBS_GearSupport
+    21300012: OBS_HandSupport
+    21300014: OBS_connect1
+    21300016: OBS_tree
+    21300018: OBS_BigHammer
+    21300020: OBS_spine
+    21300022: OBS_tunnel2
+    21300024: OBS_complexe
+    21300026: OBS_connect3
+    21300028: OBS_HeadJumper2
+    21300030: OBS_tunnel
+    21300032: OBS_connect2
+    21300034: OBS_baseJumper
+    21300036: OBS_headJumper1
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OBS_casse1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 5753
+        width: 241
+        height: 785
+      alignment: 9
+      pivot: {x: 0.69090533, y: 0.74280953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 253.5}
+        - {x: 42.5, y: 368.5}
+        - {x: -6.5, y: 389.5}
+        - {x: -81.5, y: 392.5}
+        - {x: -85.5, y: -196.5}
+        - {x: -102.5, y: -193.5}
+        - {x: -120.5, y: -276.5}
+        - {x: -120.5, y: -392.5}
+        - {x: 120.5, y: -392.5}
+        - {x: 120.5, y: -269.24854}
+        - {x: 104.5, y: -191.5}
+        - {x: 90.5, y: -188.5}
+        - {x: 85.5, y: 253.5}
+        - {x: 72.5, y: 224.5}
+      physicsShape: []
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: 837a6e81b15dbbb408b44ad081441c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_casse2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 5828
+        width: 254
+        height: 906
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.9388991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.812454, y: 453}
+        - {x: -126.812454, y: 328.75095}
+        - {x: -103.374954, y: 281.8657}
+        - {x: -91, y: 260}
+        - {x: -88, y: -304}
+        - {x: -57, y: -329}
+        - {x: -18, y: -294}
+        - {x: 2, y: -346}
+        - {x: 31, y: -315}
+        - {x: 37, y: -398}
+        - {x: 51, y: -453}
+        - {x: 83, y: -453}
+        - {x: 80, y: 281}
+        - {x: 98, y: 290}
+        - {x: 125, y: 349}
+        - {x: 127, y: 453}
+      physicsShape: []
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: e3148a4579e56374a839a86f9ef7faad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_upper
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 4972
+        width: 4207
+        height: 2178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1370.5, y: -745}
+        - {x: 1449.5, y: -746}
+        - {x: 1450.5, y: -1050}
+        - {x: 2103.4375, y: -1056.6613}
+        - {x: 2103.5, y: -1052.7542}
+        - {x: 2100.5, y: -464}
+        - {x: 1919.5, y: -458}
+        - {x: 1916.5, y: -382}
+        - {x: 1985.5, y: -385}
+        - {x: 1984.5, y: -242}
+        - {x: 2011.5, y: -236}
+        - {x: 2005.5, y: 82}
+        - {x: 1986.5, y: 94}
+        - {x: 1986.5, y: 167}
+        - {x: 1920.5, y: 169}
+        - {x: 1922.5, y: 275}
+        - {x: 1849.5, y: 277}
+        - {x: 1849.5, y: 325}
+        - {x: 1516.5, y: 325}
+        - {x: 1510.5, y: 276}
+        - {x: 1445.5, y: 271}
+        - {x: 1444.5, y: 192}
+        - {x: 1375.5, y: 193}
+        - {x: 1374.5, y: 288}
+        - {x: 1398.5, y: 287}
+        - {x: 1398.5, y: 368}
+        - {x: 1372.5, y: 369}
+        - {x: 1374.5, y: 853}
+        - {x: 1399.5, y: 854}
+        - {x: 1391.271, y: 1013.6958}
+        - {x: 1381.5, y: 1067}
+        - {x: 1324.5, y: 1089}
+        - {x: 1243.5, y: 1089}
+        - {x: 1210.5, y: 1081}
+        - {x: 1205.5, y: 1060}
+        - {x: 631.5, y: 1058}
+        - {x: 634.8579, y: 1087.9102}
+        - {x: 566.5, y: 1087}
+        - {x: 563.5, y: 1037}
+        - {x: 60.5, y: 682}
+        - {x: 51.141113, y: 706.7549}
+        - {x: 3.5, y: 671}
+        - {x: 9.5, y: 647}
+        - {x: -614.5, y: 213}
+        - {x: -632.5, y: 231}
+        - {x: -677.834, y: 196.27197}
+        - {x: -662.5, y: 175}
+        - {x: -1162.5, y: -175}
+        - {x: -1275.5, y: -169}
+        - {x: -1367.5, y: -185}
+        - {x: -1366.5, y: -344}
+        - {x: -1271.5, y: -376}
+        - {x: -1272.5, y: -456}
+        - {x: -1337.5, y: -464}
+        - {x: -1331.5, y: -626}
+        - {x: -1419.5, y: -631}
+        - {x: -1416.5, y: -666}
+        - {x: -1645.5, y: -655}
+        - {x: -1916.5, y: -668}
+        - {x: -1911.5, y: -517}
+        - {x: -2103.5, y: -515}
+        - {x: -2103.5, y: -642}
+        - {x: -2089.5, y: -648}
+        - {x: -2087.5, y: -1063}
+        - {x: -1935.5, y: -1060}
+        - {x: -1937.5, y: -823}
+        - {x: -1716.5, y: -821}
+        - {x: -1714.5, y: -843}
+        - {x: -1653.5, y: -844}
+        - {x: -1652.5, y: -818}
+        - {x: -1412.5, y: -823}
+        - {x: -1413.106, y: -865.8203}
+        - {x: -1326.5, y: -866}
+        - {x: -1331.5, y: -1064}
+        - {x: -1099.5, y: -1068}
+        - {x: -1097.5, y: -463}
+        - {x: -1157.5, y: -464}
+        - {x: -1157.5, y: -364}
+        - {x: -1134.5, y: -357}
+        - {x: -1135.5, y: -311}
+        - {x: -616.5, y: 57}
+        - {x: -609.2051, y: 34.138184}
+        - {x: -561.5, y: 66}
+        - {x: -565.5, y: 92}
+        - {x: 54.5, y: 532}
+        - {x: 71.5, y: 507}
+        - {x: 115.5, y: 538}
+        - {x: 106.5, y: 565}
+        - {x: 565.5, y: 890}
+        - {x: 566.5, y: 861}
+        - {x: 633.5, y: 867}
+        - {x: 633.5, y: 913}
+        - {x: 1201.5, y: 915}
+        - {x: 1207.5, y: 848}
+        - {x: 1245.5, y: 850}
+        - {x: 1249.5, y: 372}
+        - {x: 1226.5, y: 370}
+        - {x: 1223.5, y: 289}
+        - {x: 1248.5, y: 285}
+        - {x: 1251.5, y: -402}
+        - {x: 1233.5, y: -405}
+        - {x: 1233.5, y: -488}
+        - {x: 1249.5, y: -493}
+        - {x: 1250.5, y: -657}
+        - {x: 1077.5, y: -654}
+        - {x: 1073.5, y: -628}
+        - {x: 955.0001, y: -626.8799}
+        - {x: 955.0001, y: -1084.011}
+        - {x: 958.9064, y: -1087.9181}
+        - {x: 1077.5, y: -1085}
+        - {x: 1076.5, y: -746}
+        - {x: 1249.5, y: -745}
+        - {x: 1250.5, y: -1051}
+        - {x: 1374.5, y: -1047}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 50857fdc7c3212a4bb2bf3a01574678d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_twist
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 5308
+        width: 1278
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -505, y: -83}
+        - {x: -447.49997, y: -72.08206}
+        - {x: -420, y: -55}
+        - {x: -299.06247, y: -29.103918}
+        - {x: -264, y: -18}
+        - {x: -164, y: -6}
+        - {x: -103.749985, y: -5.6612945}
+        - {x: -37.34374, y: -1.7541904}
+        - {x: -29.531239, y: -13.475503}
+        - {x: 5.625009, y: -13.475503}
+        - {x: 13, y: 1}
+        - {x: 168, y: -14}
+        - {x: 337.65625, y: -48.63944}
+        - {x: 415.78125, y: -68.17496}
+        - {x: 500, y: -93}
+        - {x: 505, y: -106}
+        - {x: 552, y: -111}
+        - {x: 548.59375, y: -122.87441}
+        - {x: 639, y: -122.87441}
+        - {x: 639, y: 76.387886}
+        - {x: 638.4375, y: 80.29499}
+        - {x: 560, y: 74}
+        - {x: 557, y: 58}
+        - {x: 515, y: 55}
+        - {x: 497.8125, y: 49.038162}
+        - {x: 471, y: 46}
+        - {x: 425, y: 63}
+        - {x: 370, y: 73}
+        - {x: 228, y: 95}
+        - {x: 178, y: 102}
+        - {x: 136, y: 106}
+        - {x: 17, y: 111}
+        - {x: 9.53126, y: 123}
+        - {x: -33.43749, y: 123}
+        - {x: -40, y: 114}
+        - {x: -150, y: 107}
+        - {x: -247, y: 100}
+        - {x: -347, y: 86}
+        - {x: -503, y: 47}
+        - {x: -513, y: 54}
+        - {x: -560, y: 57}
+        - {x: -561, y: 72}
+        - {x: -636, y: 75}
+        - {x: -638.9062, y: 76.387886}
+        - {x: -638.9062, y: -122.87441}
+        - {x: -552.9687, y: -122.87441}
+        - {x: -549.06244, y: -115.0602}
+        - {x: -513.9062, y: -111.15311}
+      physicsShape: []
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: c5db9651c7e54d6478b0ac6d7a54a173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_BigHand
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3268
+        width: 969
+        height: 1938
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 484.5, y: -910.6478}
+        - {x: 480.5, y: -758}
+        - {x: 418.5, y: -753}
+        - {x: 427.5, y: -603}
+        - {x: 464.5, y: -610}
+        - {x: 466.5, y: -348}
+        - {x: 428.5, y: -285}
+        - {x: 399.5, y: -280}
+        - {x: 398.5, y: -172}
+        - {x: 314.5, y: -166}
+        - {x: 308.5, y: 86}
+        - {x: 298.5, y: 900}
+        - {x: 273.29688, y: 969}
+        - {x: -281.3906, y: 969}
+        - {x: -304.5, y: 894}
+        - {x: -306.5, y: 785}
+        - {x: -314.5, y: -167}
+        - {x: -403.5, y: -167}
+        - {x: -403.5, y: -274}
+        - {x: -440.5, y: -297}
+        - {x: -470.5, y: -377}
+        - {x: -472.5, y: -582}
+        - {x: -437.6406, y: -699.66425}
+        - {x: -484.5, y: -766.08496}
+        - {x: -484.5, y: -969}
+        - {x: 421.73438, y: -969}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 2dc48d263f7802748802c8853c862bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_GearSupport
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4034
+        width: 395
+        height: 949
+      alignment: 9
+      pivot: {x: 0.5062389, y: 0.07150722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.5, y: 73.5}
+        - {x: 60.5, y: 71.5}
+        - {x: 27.5, y: 454.5}
+        - {x: 21.343826, y: 474.5}
+        - {x: -29.437422, y: 474.5}
+        - {x: -46.5, y: 457.5}
+        - {x: -70.5, y: 73.5}
+        - {x: -129.5, y: 72.5}
+        - {x: -136.5, y: 105.5}
+        - {x: -180.5, y: 106.5}
+        - {x: -184.5, y: -2.5}
+        - {x: -186.5, y: -157.5}
+        - {x: -147.5, y: -164.5}
+        - {x: -148.5, y: -190.5}
+        - {x: -195.5, y: -188.5}
+        - {x: -197.5, y: -264.5}
+        - {x: -122.5, y: -266.5}
+        - {x: -115.5, y: -304.5}
+        - {x: -93.5, y: -308.5}
+        - {x: -57.5, y: -447.5}
+        - {x: -38.5, y: -462.5}
+        - {x: -4.5, y: -474.5}
+        - {x: 35.5, y: -466.5}
+        - {x: 64.5, y: -443.5}
+        - {x: 93.5, y: -306.5}
+        - {x: 116.5, y: -305.5}
+        - {x: 113.5, y: -265.5}
+        - {x: 197.5, y: -265.5}
+        - {x: 197.5, y: -193.5}
+        - {x: 153.5, y: -191.5}
+        - {x: 150.5, y: -164.5}
+        - {x: 186.5, y: -157.5}
+        - {x: 182.5, y: 15.5}
+        - {x: 174.5, y: 104.5}
+        - {x: 130.5, y: 104.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 9fe8be6ba3fe0d74098db81cd7585cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_HandSupport
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 4163
+        width: 250
+        height: 453
+      alignment: 9
+      pivot: {x: 0.4901416, y: 0.11373504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 226.5}
+        - {x: -55, y: 209.5}
+        - {x: -77, y: 208.5}
+        - {x: -77, y: 161.5}
+        - {x: -101, y: 160.5}
+        - {x: -104.71826, y: 100.03125}
+        - {x: -93, y: 96.5}
+        - {x: -91, y: -108.5}
+        - {x: -68, y: -108.5}
+        - {x: -69, y: -135.5}
+        - {x: -122, y: -137.5}
+        - {x: -124.796745, y: -226.5}
+        - {x: 125, y: -226.5}
+        - {x: 122, y: -134.5}
+        - {x: 68, y: -132.5}
+        - {x: 67, y: -108.5}
+        - {x: 91, y: -106.5}
+        - {x: 91, y: 93.5}
+        - {x: 102, y: 100.5}
+        - {x: 100, y: 160.5}
+        - {x: 71, y: 159.5}
+        - {x: 77, y: 207.5}
+        - {x: 56, y: 211.5}
+        - {x: 59, y: 226.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 4ee67aecca02044408cac62be3529a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_connect1
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 4163
+        width: 317
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.5, y: 181.5}
+        - {x: 99.5, y: 170.5}
+        - {x: 3.5, y: 171.5}
+        - {x: -108.5, y: 127.5}
+        - {x: -136.5, y: 36.5}
+        - {x: -133.5, y: -57.5}
+        - {x: -141.5, y: -99.5}
+        - {x: -158.5, y: -105.5}
+        - {x: -158.37479, y: -181.5}
+        - {x: 40.5, y: -181.5}
+        - {x: 41.5, y: -101.5}
+        - {x: 25.5, y: -80.5}
+        - {x: 45.5, y: -56.5}
+        - {x: 45.5, y: -38.5}
+        - {x: 106.5, y: -39.5}
+        - {x: 118.5, y: -53.5}
+        - {x: 156.5, y: -47.5}
+        - {x: 158.5, y: 181.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: ae647b877df660d4c851ece79d6ebf20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_tree
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2358
+        width: 1195
+        height: 2446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 365.5, y: 264}
+        - {x: 367.5, y: 155}
+        - {x: 404.5, y: 87}
+        - {x: 427.5, y: 74}
+        - {x: 424.5, y: -39}
+        - {x: 409.5, y: -50}
+        - {x: 424.5, y: -118}
+        - {x: 431.5, y: -256}
+        - {x: 403.5, y: -267}
+        - {x: 404.5, y: -292}
+        - {x: 138.5, y: -298}
+        - {x: 138.1748, y: -263.35376}
+        - {x: 7.5, y: -260}
+        - {x: 8.5, y: 10}
+        - {x: 96.5, y: 38}
+        - {x: 97.5, y: 175}
+        - {x: 5.5, y: 181}
+        - {x: 8.5, y: 404}
+        - {x: 30.5, y: 407}
+        - {x: 63.5, y: 502}
+        - {x: 63.5, y: 681}
+        - {x: -268.5, y: 681}
+        - {x: -270.5, y: 510}
+        - {x: -232.5, y: 405}
+        - {x: -210.5, y: 393}
+        - {x: -210.5, y: 219}
+        - {x: -255.5, y: 217}
+        - {x: -257.5, y: 179}
+        - {x: -426.5, y: 184}
+        - {x: -427.5, y: 550}
+        - {x: -406.48242, y: 552.6987}
+        - {x: -405.5, y: 640}
+        - {x: -426.5, y: 651}
+        - {x: -426.5, y: 1013}
+        - {x: -388.16357, y: 1017.0449}
+        - {x: -382.5, y: 1223}
+        - {x: -597.5, y: 1223}
+        - {x: -594.5, y: 1011}
+        - {x: -566.5, y: 1006}
+        - {x: -565.5, y: 652}
+        - {x: -587.1123, y: 643.8911}
+        - {x: -585.5, y: 554}
+        - {x: -562.5, y: 524}
+        - {x: -563.5, y: 192}
+        - {x: -595.5, y: 192}
+        - {x: -597.5, y: 58}
+        - {x: -573.5, y: -9}
+        - {x: -517.5, y: -47}
+        - {x: -403.5, y: -52}
+        - {x: -405.5, y: -12}
+        - {x: -255.5, y: -12}
+        - {x: -253.5, y: -55}
+        - {x: -207.5, y: -57}
+        - {x: -206.5, y: -669}
+        - {x: -241.5, y: -685}
+        - {x: -289.23416, y: -773.5439}
+        - {x: -277.5154, y: -1218.9537}
+        - {x: -273.60916, y: -1222.8608}
+        - {x: 74.04709, y: -1222.8608}
+        - {x: 69.5, y: -781}
+        - {x: 38.5, y: -683}
+        - {x: 9.5, y: -659}
+        - {x: 6.5, y: -513}
+        - {x: 401.5, y: -489}
+        - {x: 495.5, y: -494}
+        - {x: 544.5, y: -480}
+        - {x: 577.5, y: -414}
+        - {x: 581.5, y: -279}
+        - {x: 567.5, y: -252}
+        - {x: 560.5, y: 68}
+        - {x: 597.5, y: 157.84814}
+        - {x: 597.5, y: 263}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 3d98f515ff430464a8d690ac88f61d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_BigHammer
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 3667
+        width: 2035
+        height: 1137
+      alignment: 9
+      pivot: {x: 0.92750233, y: 0.5046092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1017.5, y: -118.983765}
+        - {x: 1017.5, y: 127.5}
+        - {x: 696.5, y: 129.5}
+        - {x: 698.5, y: 93.5}
+        - {x: -654.5, y: 107.5}
+        - {x: -689.81213, y: 131.07089}
+        - {x: -687.5, y: 224.5}
+        - {x: -691.5, y: 372.5}
+        - {x: -708.5, y: 521.5}
+        - {x: -705.43713, y: 568.5}
+        - {x: -709.3434, y: 568.5}
+        - {x: -990.5, y: 568.5}
+        - {x: -1005.5, y: 481.5}
+        - {x: -1017.5, y: 288.5}
+        - {x: -1010.24805, y: 84.66016}
+        - {x: -979.5, y: 77.5}
+        - {x: -974.5, y: -75.5}
+        - {x: -1009.5, y: -86.5}
+        - {x: -1017.5, y: -277.5}
+        - {x: -1009.5, y: -497.5}
+        - {x: -993.5, y: -528.5}
+        - {x: -994.5, y: -568.5}
+        - {x: -713.5, y: -568.5}
+        - {x: -707.5, y: -495.5}
+        - {x: -691.5, y: -424.5}
+        - {x: -687.5, y: -258.5}
+        - {x: -698.5, y: -128.5}
+        - {x: -452.58447, y: -120.4082}
+        - {x: -453.5, y: -82.5}
+        - {x: -124.5, y: -83.5}
+        - {x: -117.5, y: -101.5}
+        - {x: 689.5, y: -102.5}
+        - {x: 697.5, y: -121.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 770f314920d6b1b4bae2e6074a9cbf48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_spine
+      rect:
+        serializedVersion: 2
+        x: 7107
+        y: 2839
+        width: 661
+        height: 1519
+      alignment: 9
+      pivot: {x: 0.49737686, y: 0.0011675033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223f9fedfe5660428f9ee3fb64f2d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_tunnel2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2358
+        width: 1222
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 455, y: -320}
+        - {x: 587, y: -317}
+        - {x: 586, y: -228}
+        - {x: 575, y: -217}
+        - {x: 573, y: 176}
+        - {x: 589, y: 180}
+        - {x: 608, y: 271}
+        - {x: 611, y: 332}
+        - {x: 437, y: 332}
+        - {x: 437, y: 276}
+        - {x: 449, y: 263}
+        - {x: 455.76355, y: 194.94873}
+        - {x: 467, y: 165}
+        - {x: -257, y: 167}
+        - {x: -263, y: 175}
+        - {x: -340, y: 175}
+        - {x: -367, y: 158}
+        - {x: -366, y: 105}
+        - {x: -349.5625, y: 78.204796}
+        - {x: -329, y: 73}
+        - {x: -333, y: -67}
+        - {x: -327, y: -98}
+        - {x: -500, y: -97}
+        - {x: -501, y: -86}
+        - {x: -514, y: -84}
+        - {x: -509, y: 42}
+        - {x: -606, y: 41}
+        - {x: -605, y: -52}
+        - {x: -593, y: -60}
+        - {x: -594, y: -241}
+        - {x: -609, y: -242}
+        - {x: -611, y: -309}
+        - {x: -513, y: -309}
+        - {x: -512, y: -247}
+        - {x: -528, y: -231}
+        - {x: -529, y: -181}
+        - {x: -506, y: -182}
+        - {x: -495, y: -166}
+        - {x: -325, y: -164}
+        - {x: -327, y: -211}
+        - {x: -365, y: -226}
+        - {x: -366, y: -308}
+        - {x: 316, y: -309}
+        - {x: 319, y: -245}
+        - {x: 302, y: -238}
+        - {x: 302, y: -135}
+        - {x: 355, y: -123}
+        - {x: 357, y: -321}
+        - {x: 397, y: -322}
+        - {x: 398, y: -132}
+        - {x: 406, y: -124}
+        - {x: 408, y: -72}
+        - {x: 304, y: -64}
+        - {x: 304, y: -47}
+        - {x: 472, y: -47}
+        - {x: 484, y: -227}
+        - {x: 455, y: -224}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: cd06a53c48b445b438c8218fe222a66d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_complexe
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2358
+        width: 1488
+        height: 1278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 675, y: -420}
+        - {x: 688, y: -154}
+        - {x: 683, y: -92}
+        - {x: 675, y: 73}
+        - {x: 693, y: 86}
+        - {x: 696, y: 186}
+        - {x: 715, y: 198}
+        - {x: 714, y: 282}
+        - {x: 482, y: 288}
+        - {x: 481, y: 197}
+        - {x: 504, y: 88}
+        - {x: 523, y: 77}
+        - {x: 519, y: -86}
+        - {x: 500.69824, y: -95.78662}
+        - {x: 502, y: -153}
+        - {x: 517, y: -161}
+        - {x: 518, y: -231}
+        - {x: 500, y: -249}
+        - {x: 404, y: -246}
+        - {x: 400, y: -100}
+        - {x: 421, y: -95}
+        - {x: 418, y: -9}
+        - {x: 186, y: -6}
+        - {x: 186, y: -96}
+        - {x: 201, y: -102}
+        - {x: 206, y: -203}
+        - {x: 222, y: -231}
+        - {x: 225, y: -293}
+        - {x: 196, y: -296}
+        - {x: 197, y: -316}
+        - {x: 40, y: -314}
+        - {x: 39, y: -296}
+        - {x: 13, y: -293}
+        - {x: 2, y: -10}
+        - {x: 18.785156, y: -0.2277832}
+        - {x: 22, y: 97}
+        - {x: 43, y: 106}
+        - {x: 40, y: 194}
+        - {x: -193.46867, y: 193.46437}
+        - {x: -177, y: 6}
+        - {x: -159, y: -28}
+        - {x: -156, y: -149}
+        - {x: -168.8623, y: -177.14941}
+        - {x: -166, y: -233}
+        - {x: -153, y: -312}
+        - {x: -199, y: -310}
+        - {x: -205, y: 36}
+        - {x: -203, y: 105}
+        - {x: -289, y: 109}
+        - {x: -292, y: 255}
+        - {x: -269, y: 270}
+        - {x: -249, y: 374}
+        - {x: -252, y: 459}
+        - {x: -480, y: 460}
+        - {x: -482, y: 380}
+        - {x: -463, y: 265}
+        - {x: -449, y: 250}
+        - {x: -446, y: 119}
+        - {x: -503.98315, y: 122.03247}
+        - {x: -505, y: 86}
+        - {x: -568, y: 87}
+        - {x: -565, y: 114}
+        - {x: -585, y: 118}
+        - {x: -583, y: 269}
+        - {x: -574, y: 279}
+        - {x: -575, y: 334}
+        - {x: -583, y: 349}
+        - {x: -585, y: 483}
+        - {x: -569, y: 487}
+        - {x: -572, y: 535}
+        - {x: -548, y: 546}
+        - {x: -550, y: 638}
+        - {x: -744, y: 639}
+        - {x: -744, y: 545.8877}
+        - {x: -723, y: 545}
+        - {x: -721, y: 488}
+        - {x: -711, y: 479}
+        - {x: -708, y: 352}
+        - {x: -718, y: 338}
+        - {x: -716, y: 280}
+        - {x: -708, y: 263}
+        - {x: -710, y: 119}
+        - {x: -725, y: 100}
+        - {x: -727, y: 32}
+        - {x: -711, y: -38}
+        - {x: -673, y: -83}
+        - {x: -636, y: -92}
+        - {x: -445, y: -88}
+        - {x: -457, y: -180}
+        - {x: -461, y: -247}
+        - {x: -447, y: -452}
+        - {x: -533, y: -456}
+        - {x: -537, y: -639}
+        - {x: 683, y: -636}
+        - {x: 673, y: -515}
+        - {x: 744, y: -509}
+        - {x: 744, y: -417}
+      physicsShape: []
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: 5af105f0c67ac024fa0ed910f447ce0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_connect3
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 2284
+        width: 1619
+        height: 1093
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 409.5, y: 185.5}
+        - {x: 475.5, y: 180.5}
+        - {x: 481.5, y: 217.5}
+        - {x: 684.5, y: 219.5}
+        - {x: 695.5, y: 171.5}
+        - {x: 809.5, y: 172.21019}
+        - {x: 809.5, y: 546.5}
+        - {x: 686.5, y: 546.5}
+        - {x: 689.5, y: 495.5}
+        - {x: 479.5, y: 500.5}
+        - {x: 477.12988, y: 527.625}
+        - {x: 404.5, y: 523.5}
+        - {x: 397.5, y: 496.5}
+        - {x: 227.5, y: 498.5}
+        - {x: 214.10645, y: 524.89014}
+        - {x: 10.5, y: 517.5}
+        - {x: -92.5, y: 492.5}
+        - {x: -129.5, y: 377.5}
+        - {x: -136.5, y: 273.5}
+        - {x: -132.5, y: 87.5}
+        - {x: -83.5, y: 75.5}
+        - {x: -81.5, y: -48.5}
+        - {x: -136.5, y: -53.5}
+        - {x: -140.5, y: -199.5}
+        - {x: -389.5, y: -195.5}
+        - {x: -394.5, y: -166.5}
+        - {x: -475.5, y: -164.5}
+        - {x: -485.5, y: -198.5}
+        - {x: -669.5, y: -196.5}
+        - {x: -665.5, y: -172.5}
+        - {x: -809.5, y: -176.5}
+        - {x: -809.5, y: -530.5}
+        - {x: -671.3086, y: -532.1282}
+        - {x: -668.5, y: -481.5}
+        - {x: -482.5, y: -481.5}
+        - {x: -468.5, y: -513.5}
+        - {x: -391.5, y: -510.5}
+        - {x: -395.5, y: -480.5}
+        - {x: -141.5, y: -482.5}
+        - {x: -130.5, y: -538.5}
+        - {x: -51.5, y: -546.5}
+        - {x: 47.5, y: -543.5}
+        - {x: 130.5, y: -496.5}
+        - {x: 183.5, y: -432.5}
+        - {x: 221.5, y: -309.5}
+        - {x: 219.5, y: -132.5}
+        - {x: 211.5, y: -47.5}
+        - {x: 183.5, y: -41.5}
+        - {x: 173.5, y: 68.5}
+        - {x: 229.5, y: 84.5}
+        - {x: 223.5, y: 207.5}
+        - {x: 396.5, y: 216.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 5bbda659ada0f874b9ab26fabae981cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_HeadJumper2
+      rect:
+        serializedVersion: 2
+        x: 6311
+        y: 385
+        width: 1689
+        height: 2114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 446.5, y: 1057}
+        - {x: 441.5, y: 884}
+        - {x: 469.5, y: 704}
+        - {x: 509.5, y: 646}
+        - {x: 515.5, y: 395}
+        - {x: 480.5, y: 379}
+        - {x: 486.5, y: 231}
+        - {x: 508.5, y: 200}
+        - {x: 513.5, y: -120}
+        - {x: 469.5, y: -136}
+        - {x: 470.5, y: -204}
+        - {x: 194.5, y: -194}
+        - {x: 196.5, y: -139}
+        - {x: 127.5, y: -138}
+        - {x: 146.5, y: 378}
+        - {x: -835.484, y: 384.99997}
+        - {x: -843.2965, y: 384.99997}
+        - {x: -843.5, y: -58}
+        - {x: -775.5, y: -80}
+        - {x: -777.5, y: -817}
+        - {x: -844.5, y: -816}
+        - {x: -843.2965, y: -1056.7214}
+        - {x: 165.5, y: -1054}
+        - {x: 155.5, y: -817}
+        - {x: 84.5, y: -813}
+        - {x: 82.5, y: -608}
+        - {x: 196.5, y: -606}
+        - {x: 194.5, y: -526}
+        - {x: 821.5, y: -536}
+        - {x: 823.5, y: -129}
+        - {x: 787.5, y: -121}
+        - {x: 786.5, y: 216}
+        - {x: 816.5, y: 245}
+        - {x: 813.5, y: 368}
+        - {x: 782.5, y: 387}
+        - {x: 783.5, y: 658}
+        - {x: 823.5, y: 705}
+        - {x: 844.5, y: 869.6787}
+        - {x: 844.5, y: 1057}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: ccd5ea312e0031247809217f55e4b776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_tunnel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 2143
+        height: 1606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182.5, y: -267}
+        - {x: 285.5, y: -331}
+        - {x: 407.5, y: -335}
+        - {x: 445.5, y: -293}
+        - {x: 770.5, y: -292}
+        - {x: 768.5, y: -532}
+        - {x: 708.5, y: -539}
+        - {x: 701.5, y: -761}
+        - {x: 1044.5, y: -761}
+        - {x: 1045.5, y: -540}
+        - {x: 1014.5, y: -531}
+        - {x: 1016.5, y: -2}
+        - {x: 1068.9031, y: 93.79639}
+        - {x: 1068.5, y: 233}
+        - {x: 712.89056, y: 232.09293}
+        - {x: 701.1718, y: 220.37161}
+        - {x: 693.3593, y: 103.15849}
+        - {x: 766.5, y: -45}
+        - {x: 569.5, y: 3}
+        - {x: 536.5, y: -44}
+        - {x: 435.5, y: -41}
+        - {x: 439.5, y: 290}
+        - {x: 364.5, y: 373}
+        - {x: 270.5, y: 430}
+        - {x: 162.5, y: 422}
+        - {x: 133.5, y: 388}
+        - {x: -718.5, y: 379}
+        - {x: -629.5, y: 606}
+        - {x: -632.5, y: 800}
+        - {x: -1071.5, y: 803}
+        - {x: -1071.5, y: 610}
+        - {x: -1040.5, y: 496}
+        - {x: -1005.5, y: 446}
+        - {x: -996.5, y: -24}
+        - {x: -1029.5, y: -40}
+        - {x: -1029.5, y: -168}
+        - {x: -1000.5, y: -211}
+        - {x: -994.5, y: -568}
+        - {x: -1037.5, y: -578}
+        - {x: -1044.5, y: -758}
+        - {x: -654.5, y: -760}
+        - {x: -647.5, y: -564}
+        - {x: -677.5, y: -564}
+        - {x: -670.5, y: 65}
+        - {x: 137.5, y: 80}
+        - {x: 132.5, y: -157}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: edd42813b18b94a4f93e6a445ac85105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_connect2
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 377
+        width: 344
+        height: 1465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 732.5}
+        - {x: -172, y: 732.5}
+        - {x: -172, y: 313.5}
+        - {x: -112, y: 192.5}
+        - {x: -111, y: -143.5}
+        - {x: -156, y: -349.5}
+        - {x: -162, y: -510.5}
+        - {x: -138, y: -604.5}
+        - {x: -46, y: -693.5}
+        - {x: 38, y: -712.5}
+        - {x: 99, y: -709.5}
+        - {x: 116, y: -732.5}
+        - {x: 172, y: -732.5}
+        - {x: 172, y: -302.5}
+        - {x: 125, y: -296.5}
+        - {x: 108, y: 193.5}
+        - {x: 134, y: 204.5}
+        - {x: 135, y: 318.5}
+        - {x: 158, y: 353.5}
+        - {x: 164, y: 496.5}
+        - {x: 148, y: 589.5}
+        - {x: 60, y: 694.5}
+        - {x: -9, y: 713.5}
+        - {x: -81, y: 709.5}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: f21fed1ab55d7434aa9316450e49da99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_baseJumper
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 0
+        width: 1207
+        height: 2076
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -291.1873, y: 1038}
+        - {x: -288.5, y: -496}
+        - {x: -589.5, y: -498}
+        - {x: -592.5, y: -757}
+        - {x: -493.5, y: -774}
+        - {x: -497.13647, y: -854.98694}
+        - {x: -603.5, y: -1038}
+        - {x: 603.5, y: -1038}
+        - {x: 466.5, y: -843}
+        - {x: 465.5, y: -754}
+        - {x: 561.5, y: -756}
+        - {x: 561.5, y: -495}
+        - {x: 246.5, y: -498}
+        - {x: 247.8752, y: 1038}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 6026ffc0389cbda42b01b70e47d06f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OBS_headJumper1
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 377
+        width: 992
+        height: 1434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -490, y: 717}
+        - {x: -491.84473, y: 253.16797}
+        - {x: -433, y: 252}
+        - {x: -430, y: -480}
+        - {x: -496, y: -486}
+        - {x: -495.70273, y: -716.98914}
+        - {x: 496, y: -716.98914}
+        - {x: 496, y: -480}
+        - {x: 427, y: -477}
+        - {x: 428, y: 263}
+        - {x: 486.52832, y: 253.16687}
+        - {x: 482, y: 717}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 4f2d2fdc71403b445a8349d2ba81964e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f34a68f08e81c834f9b7d5e492b87a15
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

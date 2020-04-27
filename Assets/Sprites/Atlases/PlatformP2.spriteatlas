@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlatformP2
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 569486194958a0b4ca1b59a803de04b7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300004, guid: 0f56863c8dd7fc249a04e87c7dc14ce2, type: 3}
+  - {fileID: 21300006, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300008, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300002, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300000, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300002, guid: 0f56863c8dd7fc249a04e87c7dc14ce2, type: 3}
+  - {fileID: 21300000, guid: 0f56863c8dd7fc249a04e87c7dc14ce2, type: 3}
+  - {fileID: 21300026, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300010, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300004, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300028, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300024, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300022, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300014, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300016, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300006, guid: 0f56863c8dd7fc249a04e87c7dc14ce2, type: 3}
+  - {fileID: 21300020, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300018, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  - {fileID: 21300012, guid: da752d42516a68d4faf8f45e3a219786, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lev3Fla4_2
+  - O3_UpDown
+  - O3_ZigZag2
+  - O3_ZigZag
+  - O3_multiUP
+  - lev3Fla4_1
+  - lev3Fla4_0
+  - O3_twistUp
+  - O3_up
+  - O3_tal3a
+  - O3_twistDownUp
+  - O3_DirectUp
+  - O3_enter
+  - O3_habta
+  - O3_upDirect
+  - lev3Fla4_3
+  - O3_taksira2
+  - O3_tk
+  - O3_taksira
+  m_Tag: PlatformP2
+  m_IsVariant: 0

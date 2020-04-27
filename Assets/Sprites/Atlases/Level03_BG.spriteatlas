@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Level03_BG
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4ec5526e5d55ec74c8e1d9291f83c521, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ff414fc87da1dea42b4c945c4b6fe536, type: 3}
+  - {fileID: 21300000, guid: a5e673744ae72614e8d1ed6c671fa6ba, type: 3}
+  - {fileID: 21300000, guid: 0ffd37eda91baf545b99fb30ae1ea75e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MiddleBG_0
+  - FarBGBuilding_0
+  - NearBG_0
+  m_Tag: Level03_BG
+  m_IsVariant: 0

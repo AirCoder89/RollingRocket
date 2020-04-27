@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Level01_BgAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 4096
+      textureCompression: 3
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8b3c889155d96714f9a4b7bad1f37469, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ca2a65abc8f92814e8b1fa0250275ece, type: 3}
+  - {fileID: 21300000, guid: eb77423fc95c52c41ad92ebaa1001bc4, type: 3}
+  - {fileID: 21300000, guid: 9255e6d3f0afb584b85b2219c25eb0c2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MountainBG
+  - ArabicBuildings
+  - BuildingsCales
+  m_Tag: Level01_BgAtlas
+  m_IsVariant: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ship
+  - Coin
+  - ShipParent
+  - OcllusiOn
+  - RigidObstacle
+  - levelManager
+  - CheckPoint
+  - FillProgressBar
+  - FuelIndicatorTxt
+  - GUI
+  - FuelAnim
+  - LevelMapping
+  - SceneHandler
+  - FuelPanelAnim
+  - StartStation
+  - EndlessManager
+  - DGift
+  - Get50
+  - GUISpawn
+  - shakeCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LightLayer
+  - CollisionParticles
+  - PlatformLayer
+  - PlayerLayer
+  - LevelManager
+  - CanvasLayer
+  - BackGroundLayer
+  - CoinsAndBonusLayer
+  - AllLevel
+  - RBPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkyFX
+    uniqueID: 1753659419
+    locked: 0
+  - name: sunLayer
+    uniqueID: 3541476079
+    locked: 0
+  - name: layer01
+    uniqueID: 3998228317
+    locked: 0
+  - name: layer02
+    uniqueID: 146520299
+    locked: 0
+  - name: layer03
+    uniqueID: 2897338363
+    locked: 0
+  - name: PlatformLayer
+    uniqueID: 2802544213
+    locked: 0
+  - name: BonusLayer
+    uniqueID: 1954663977
+    locked: 0
+  - name: ShipLayer
+    uniqueID: 3207252879
+    locked: 0
+  - name: Foreground
+    uniqueID: 2985299275
+    locked: 0

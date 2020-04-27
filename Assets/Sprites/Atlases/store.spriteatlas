@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: store
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0e43be7ee1c0b914f87c51a0e81dc2dd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fa36dd89372730a4284b7485a1752d3d, type: 3}
+  - {fileID: 21300000, guid: a42636682e9413740b8c47e922466552, type: 3}
+  - {fileID: 21300000, guid: 8489fe3fccdd5c64c83052557f5c1481, type: 3}
+  - {fileID: 21300000, guid: 33a279ca03af74041ac6a97e9882d098, type: 3}
+  - {fileID: 21300000, guid: 64fde797994c8b142946d6e3cb77b87a, type: 3}
+  - {fileID: 21300000, guid: b1a5d7071f5406b4dba921349e0c6fc9, type: 3}
+  - {fileID: 21300000, guid: 70aa6a32e5a3b4d4392cfae304f85e50, type: 3}
+  - {fileID: 21300000, guid: efdb88e93cb6e024dbdc89cd36cbc374, type: 3}
+  - {fileID: 21300000, guid: f2e47e863e9057446860d3ecc4593ea6, type: 3}
+  - {fileID: 21300000, guid: 03eedf7de80ceba4eb9e6881159acf47, type: 3}
+  - {fileID: 21300000, guid: aecc958a84b8d19419f4c01645a5da8e, type: 3}
+  - {fileID: 21300000, guid: 347c857aa4f88b348a87c987d1739b41, type: 3}
+  - {fileID: 21300000, guid: dd6ba410cb943ea4b8f01fdbeb7aabe2, type: 3}
+  - {fileID: 21300000, guid: a9547c50f608b544e91e142042ba7890, type: 3}
+  - {fileID: 21300000, guid: 0eaac904a913b024aae121e56e686d56, type: 3}
+  - {fileID: 21300000, guid: 9a42e7d1dddcc394ebea9fce706703e4, type: 3}
+  - {fileID: 21300000, guid: 10633e02cfe5b714a822cf7921281470, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Frame1
+  - frame2
+  - StoreTitle
+  - Ftank
+  - Fuel Consumption
+  - thrust
+  - Sensitivity
+  - Magnetic Force
+  - UpgradeRotation
+  - Level4
+  - Level1
+  - Level3
+  - Level2
+  - BtnDisabled
+  - Btn
+  - BtnClicked
+  - HorizontalLine
+  m_Tag: store
+  m_IsVariant: 0

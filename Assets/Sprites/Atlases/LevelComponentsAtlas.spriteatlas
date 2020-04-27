@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LevelComponentsAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 4096
+      textureCompression: 2
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eae7cd96eafe87e45821bf1fbe8b7b65, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 047b4d27c492ee948bc8dacc97f192e0, type: 3}
+  - {fileID: 21300000, guid: d9ad6dcaa54ec8647a42eaf882188a55, type: 3}
+  - {fileID: 21300000, guid: 3bfdcd270b1af684c9c02be4bde2b606, type: 3}
+  - {fileID: 21300000, guid: da45eebf30e1f44499b6c96f1aa16958, type: 3}
+  - {fileID: 21300000, guid: 33dbf81f3de222b47bdd0c03a199eaba, type: 3}
+  - {fileID: 21300000, guid: 5d3a3508a2b72be43b3aa1adf84f4ee7, type: 3}
+  - {fileID: 21300000, guid: 5743e93c1488a2c46939db9562734bd0, type: 3}
+  - {fileID: 21300000, guid: 093b62148619ac544a6416e6b57a86b2, type: 3}
+  - {fileID: 21300000, guid: 3030f0f6c2fe3a44eaea16dd9a8870a3, type: 3}
+  - {fileID: 21300000, guid: 06efccd3c4b4dec488917c9d4370aa94, type: 3}
+  - {fileID: 21300000, guid: 68fe60f9b5c786f49bcb2a1772f36698, type: 3}
+  - {fileID: 21300000, guid: e37b7bee9b8cfd3449d1ccbcd69080e6, type: 3}
+  - {fileID: 21300000, guid: f814222bb2afe9d41be7f05e042334da, type: 3}
+  - {fileID: 21300000, guid: b388b2797bbc3a84989590c4d4df4e2b, type: 3}
+  - {fileID: 21300000, guid: 3eaefafb74bcf5445abeb2748c5eedc0, type: 3}
+  - {fileID: 21300000, guid: 83d91848f2685624dae45cf50054cccc, type: 3}
+  - {fileID: 21300000, guid: 60aeedc65b5aa30429646d19dacf42d1, type: 3}
+  - {fileID: 21300000, guid: c5d663fd53df5664f9fb67317d979df4, type: 3}
+  - {fileID: 21300000, guid: ffd6d1f4d4ba79348a1ead9a46d4960d, type: 3}
+  - {fileID: 21300000, guid: 48201ff9e97dbe54f80aec7e61d66098, type: 3}
+  - {fileID: 21300000, guid: 4dd6eef436b0b6641b179e5a87e8ade4, type: 3}
+  - {fileID: 21300000, guid: b02e8f61e4b55c345a6dea26b125e76b, type: 3}
+  - {fileID: 21300000, guid: c7f0ea7c931d3444fb88c66e4e2c2a90, type: 3}
+  - {fileID: 21300000, guid: 6de5db524af120f4288f01a594a80010, type: 3}
+  - {fileID: 21300000, guid: 39c8de534885fb44b91c6c96b4bb0790, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StartStation
+  - SmokeBig
+  - BlackSmoke
+  - CheckPointLine
+  - CheckPointGreen
+  - fragmentBig
+  - RedBarrel
+  - smokdeMeduim
+  - GAS_Prop_0
+  - fragmentSmall
+  - handler_0
+  - BaseHandler
+  - inTTFX
+  - redTTFX
+  - Chain
+  - SmokdeSmall
+  - Chain01
+  - redTT
+  - InTimeTravel
+  - coin3
+  - ScaleDownIcon
+  - ScaleUpIcon
+  - FuelIcon.png.png
+  - MagnetIcon.png
+  - Chain02
+  m_Tag: LevelComponentsAtlas
+  m_IsVariant: 0
